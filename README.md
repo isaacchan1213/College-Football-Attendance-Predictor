@@ -20,7 +20,7 @@ To reproduce the project or build upon it, follow these steps:
 1. **Clone the Repository**: 
 
     ```bash
-    git clone https://github.com/your-repo/college-football-attendance-project.git
+    git clone https://github.com/isaacchan1213/college-football-attendance-project.git
     cd college-football-attendance-project
     ```
 
